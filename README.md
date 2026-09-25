@@ -68,10 +68,3 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
 </div>
-
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=techsavvycoder&theme=tokyonight&hide_border=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=techsavvycoder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techsavvycoder&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br/>
-</div>
